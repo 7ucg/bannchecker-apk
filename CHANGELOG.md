@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.1.0] - 2026-09-03
+
+### Added
+- Custom layout builder: reorder, hide or add every block on the main screen (header, title, inputs, status banner, ban details, button, footer, custom text, spacer, logo)
+- Card size slider (60-140%)
+- Editable interface texts: title, check button, footer, number placeholder, autofill label, default country code, header decoration
+- Separate Status banner and Ban details blocks
+- Config export/import: share your full theme, texts and layout as one code (optional API key)
+- Panel API key with live daily quota
+- History: search, tap to re-check, CSV export
+- Optional logo image on the main screen
+
+### Changed
+- Result and status can now be positioned independently
+
+### Important
+- New signing key. Android blocks updates signed with a different key, so you must uninstall any previous version before installing 2.1.0.
+
 ## [2.0.9] - 2026-09-01
 
 ### Important

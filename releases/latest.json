@@ -1,9 +1,9 @@
 {
-  "version": "2.0.9",
-  "versionCode": 2009,
-  "changelog": "Uninstall the old app first \u2014 new signing key. Plus security & stability improvements.",
-  "apkUrl": "https://github.com/7ucg/bannchecker-apk/raw/main/Apks/2.0.9/banchecker-arm64.apk",
-  "releaseDate": "2026-09-01",
+  "version": "2.1.0",
+  "versionCode": 4010,
+  "changelog": "Custom layout builder, editable texts, config sharing, panel key + quota, history search/export. Uninstall the old app first (new signing key).",
+  "apkUrl": "https://github.com/7ucg/bannchecker-apk/raw/main/Apks/2.1.0/banchecker-arm64.apk",
+  "releaseDate": "2026-09-03",
   "minAndroidVersion": 21,
-  "downloadSize": "22MB"
+  "downloadSize": "23MB"
 }
