@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "versionCode": 4010,
-  "changelog": "Custom layout builder, editable texts, config sharing, panel key + quota, history search/export. Uninstall the old app first (new signing key).",
-  "apkUrl": "https://github.com/7ucg/bannchecker-apk/raw/main/Apks/2.1.0/banchecker-arm64.apk",
-  "releaseDate": "2026-09-03",
+  "version": "2.1.1",
+  "versionCode": 4011,
+  "changelog": "Share results as an image, theme gallery + online community themes, customizable ban details, statistics, home-screen widget, shortcuts, deep links and a first-run tutorial. Fixed mod_ban being misreported. Installs over 2.1.0 - no uninstall needed.",
+  "apkUrl": "https://github.com/7ucg/bannchecker-apk/raw/main/Apks/2.1.1/banchecker-arm64.apk",
+  "releaseDate": "2026-09-22",
   "minAndroidVersion": 21,
   "downloadSize": "23MB"
 }

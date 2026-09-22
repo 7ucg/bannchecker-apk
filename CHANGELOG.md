@@ -1,5 +1,25 @@
 # Changelog
 
+## [2.1.1] - 2026-09-22
+
+### Added
+- Share your ban result as an image
+- Theme gallery to browse and apply ready-made presets
+- Online Themes: publish your own ban screen, browse and apply themes from other users, and report inappropriate ones
+- Customizable ban details: reorder, rename, hide or add the rows shown for a banned number
+- Statistics screen with local check stats and global community totals (checks & users); phone numbers are never shared
+- Home-screen widget
+- App shortcuts (long-press the app icon)
+- Deep links
+- First-run onboarding tutorial
+- New theme presets (Aurora, Gold, Daylight and more)
+
+### Fixed
+- mod_ban is no longer misreported: a number that only has a WhatsApp mod-client refusal now correctly shows as not banned
+
+### Note
+- Installs as an update over 2.1.0 (same signing key) — no uninstall needed.
+
 ## [2.1.0] - 2026-09-03
 
 ### Added
