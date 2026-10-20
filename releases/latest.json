@@ -1,9 +1,9 @@
 {
-  "version": "2.1.1",
-  "versionCode": 4011,
-  "changelog": "Share results as an image, theme gallery + online community themes, customizable ban details, statistics, home-screen widget, shortcuts, deep links and a first-run tutorial. Fixed mod_ban being misreported. Installs over 2.1.0 - no uninstall needed.",
-  "apkUrl": "https://github.com/7ucg/bannchecker-apk/raw/main/Apks/2.1.1/banchecker-arm64.apk",
-  "releaseDate": "2026-09-22",
-  "minAndroidVersion": 21,
-  "downloadSize": "23MB"
+  "version": "2.1.2",
+  "versionCode": 4012,
+  "changelog": "Per-number rate-limit handling (no more false WhatsApp mod block), 8 languages, Online Themes v2, config backup as a file, background images as files, Discord link, crash and leak fixes. Installs over 2.1.1 - no uninstall needed.",
+  "apkUrl": "https://github.com/7ucg/bannchecker-apk/raw/main/Apks/2.1.2/banchecker-arm64.apk",
+  "releaseDate": "2026-10-20",
+  "minAndroidVersion": 24,
+  "downloadSize": "25MB"
 }

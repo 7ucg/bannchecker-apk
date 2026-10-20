@@ -1,5 +1,29 @@
 # Changelog
 
+## [2.1.2] - 2026-10-20
+
+### Added
+
+- Online Themes: search, categories, favorites, a full preview before applying, and a "Mine" tab to withdraw your own themes
+- 8 languages (English, German, Spanish, Portuguese, Arabic, Indonesian, Hindi, Urdu) with a language picker; right-to-left layout for Arabic and Urdu
+- Config backup as a file: save and load next to the code export
+- Pick a background image in Settings > Background, with a preview
+- Discord link in the menu
+
+### Changed
+
+- Background images are stored as files, so settings and exported codes stay small
+- Error messages are shorter and easier to read
+
+### Fixed
+
+- "WhatsApp is limiting requests" (`temporarily_unavailable`) was shown as a WhatsApp Mod block; it now shows how long to wait, and only that number is paused until then
+- Crash ("Stack Overflow") with large background images or when changing texts with a video background
+- Several smaller fixes in the theme gallery and settings
+
+### Note
+- Installs as an update over 2.1.1 (same signing key) — no uninstall needed.
+
 ## [2.1.1] - 2026-09-22
 
 ### Added
